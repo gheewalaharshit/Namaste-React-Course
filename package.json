@@ -1,0 +1,26 @@
+{
+  "name": "namaste-react",
+  "version": "1.0.0",
+  "description": "Namaste React course",
+  "main": "App.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gheewalaharshit/Namaste-React-Course.git"
+  },
+  "keywords": [
+    "React",
+    "Harshit"
+  ],
+  "author": "Harshit",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gheewalaharshit/Namaste-React-Course/issues"
+  },
+  "homepage": "https://github.com/gheewalaharshit/Namaste-React-Course#readme",
+  "devDependencies": {
+    "parcel": "^2.12.0"
+  }
+}
